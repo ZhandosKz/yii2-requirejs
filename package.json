@@ -1,0 +1,14 @@
+{
+  "name": "Grunt",
+  "version": "1.0.0",
+  "description": "Grunt + RequireJs environment example",
+  "author": "Zhandos M",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-text-replace": "^0.4.0",
+    "md5": "^2.1.0"
+  }
+}
